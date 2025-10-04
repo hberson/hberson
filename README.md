@@ -2,7 +2,7 @@
 
 A Solutions Architect, entrepreneur, and lifelong learner passionate about building scalable cloud systems and meaningful digital experiences. 
 By day, I partner with engineering, design, and business teams at NetJets to design AWS-based architectures, modernize platforms, and guide technical strategy.
-I also run OneUppDev, my consultancy focused on universal app development (React Native + Web with Expo), serverless backends on AWS, 
+I also run OneUppDev, my consultancy focused on iOS (Swift + SwiftUI), and universal app development (React Native + Web with Expo), serverless backends on AWS, 
 and design systems that unify user experiences across platforms.
 
 Beyond tech, I’m deeply committed to community. I mentor students, support STEM programs, and host Degree Optional, a podcast that helps people break into tech without a traditional path. 
