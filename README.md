@@ -1,4 +1,4 @@
-## Hi, I’m Henry Saint-Juste
+# Hi, I’m Henry Saint-Juste
 
 A Solutions Architect, entrepreneur, and lifelong learner passionate about building scalable cloud systems and meaningful digital experiences. 
 By day, I partner with engineering, design, and business teams at NetJets to design AWS-based architectures, modernize platforms, and guide technical strategy.
@@ -7,6 +7,28 @@ and design systems that unify user experiences across platforms.
 
 Beyond tech, I’m deeply committed to community. I mentor students, support STEM programs, and host Degree Optional, a podcast that helps people break into tech without a traditional path. 
 I also speak at conferences like ColumbusJS, CodeMash, and StirTrek on topics ranging from databases to cross-platform development.
+
+<details>
+
+<summary>Core Competencies</summary>
+
+Architecture & Strategy
+
+Enterprise design systems, cloud migration (AWS, GCP), security & compliance, performance optimization
+
+Development Expertise
+
+iOS (Swift, SwiftUI, Objective-C), React, React Native, Angular, JavaScript/TypeScript, Kotlin
+
+Cloud & DevOps
+
+AWS, GCP, API design, CI/CD (Jenkins, GitLab, GitHub Actions), Infrastructure as Code
+
+Leadership
+
+Cross-functional collaboration, standards/governance, mentoring, community leadership
+
+</details>
 
 <!--
 **hberson/hberson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
