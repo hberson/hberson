@@ -1,7 +1,7 @@
 # Hi, I’m Henry Saint-Juste
 
 A Solutions Architect, entrepreneur, and lifelong learner passionate about building scalable cloud systems and meaningful digital experiences. 
-By day, I partner with engineering, design, and business teams at NetJets to design AWS-based architectures, modernize platforms, and guide technical strategy.
+By day, I partner with engineering, designers, and business teams at NetJets to design AWS-based architectures, modernize platforms, and guide technical strategy.
 I also run OneUppDev, my consultancy focused on universal app development (React Native + Web with Expo), iOS development (Swift + SwiftUI), serverless backends on AWS, 
 and design systems that unify user experiences across platforms.
 
